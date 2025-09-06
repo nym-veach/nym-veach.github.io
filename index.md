@@ -14,4 +14,4 @@ I have a professional background in environmental advocacy, organizing, policy, 
 #### About Me
 #### Interest Areas
 #### Excited to learn in Earth Data Science
-#### Earth Data Scinece Quesitons I'm Interested In
+#### Earth Data Scinece Questions I'm Interested In

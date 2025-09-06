@@ -6,3 +6,9 @@ I have a professional background in environmental advocacy, organizing, policy, 
 #### Contact Information
 * Email: nym.veach@gmail.com
 * Linked In:
+
+#### Education & Professional Background
+#### About Me
+#### Interest Areas
+#### Excited to learn in Earth Data Science
+#### Earth Data Scinece Quesitons I'm Interested In

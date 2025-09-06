@@ -8,7 +8,9 @@ I have a professional background in environmental advocacy, organizing, policy, 
 
 #### Contact Information
 * Email: nym.veach@gmail.com
-* Linked In:
+* Github: https://github.com/nym-veach/
+* Linked In: www.linkedin.com/in/nym-veach/
+
 
 #### Education & Professional Background
 #### About Me

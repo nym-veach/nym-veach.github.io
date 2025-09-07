@@ -1,5 +1,3 @@
-## Nym's Earth Data Science Portfolio
-
 <img src="img/Profile-Picture-Nym1.jpg" alt="Profile Picture" width="200">
 
 Welcome to my portfolio! My name is Nym Veach and I am an Environmental Scientist working in regulatory compliance for clean drinking water with the ND Dept of Environmental Quality.  In addition,  I am studying Earth Data Science at University of Colorado Boulder. I am passionate about all things water resources management - surface water, groundwater, stormwater, drinking water, water quality, water quantity, and more! I am excited to apply data analysis skills to solving complex environmental challenges facing us today, using innovative and creative interdisciplinary problem-solving along the way.

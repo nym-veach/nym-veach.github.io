@@ -3,7 +3,7 @@
 ### *Welcome to my portfolio! I'm Nym Veach.* 
 
 #### Contact Information
-**Email:** [nym.veach@gmail.com](mailto:nym.veach@example.com)  
+**Email:** [nym.veach@gmail.com](mailto:nym.veach@gmail.com)  
 **LinkedIn:** [www.linkedin.com/in/nym-veach](https://www.linkedin.com/in/nym-veach)  
 **GitHub:** [github.com/nym-veach](https://github.com/nym-veach)
 

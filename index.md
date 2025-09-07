@@ -15,7 +15,7 @@ I have a professional background in environmental advocacy, organizing, policy, 
 #### Education & Professional Background
 #### About Me
 #### Interest Areas
-#### Excited to learn in Earth Data Science
-#### Earth Data Scinece Questions I'm Interested In
 
+### Lake Metigoshe Map
 <embed type="text/html" src="img/lakemetigoshe.html" width="600" height="600">
+Lake Metigoshe is an transboundary waterway about 40 mins from where I grew up, straddling the international border between North Dakota and Canada. It is a glacial lake with unique hydrological properties in the Turtle Mountain region. It has sensitive water chemistry and has struggled with nutrient pollution, leading to harmful algal blooms in recent years. As a part of Lake Metigoshe State Park, the lake supports important wildlife habitat and recreation activities. I spent a lot of time here in my youth and a summer in 2017 serving as a naturalist and environmental educator, which deepened my personal connection and professional curiosity of the landscape.

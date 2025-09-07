@@ -7,21 +7,19 @@
 **LinkedIn:** [www.linkedin.com/in/nym-veach](https://www.linkedin.com/in/nym-veach)  
 **GitHub:** [github.com/nym-veach](https://github.com/nym-veach)
 
-#### Profesional & Educational Background
+#### Professional & Educational Background
 I'm an Environmental Scientist at the ND Dept of Environmental Quality. I oversee regulatory compliance data monitoring for safe drinking water in ND. I manage rules for disinfection byproducts, volatile organic compounds, pesticides, and inorganic chemicals. 
 
 I'm an Earth Data Science Student at CU Boulder! I am excited to apply data analysis skills to solving complex real-world environmental challenges facing us today, using innovative and creative interdisciplinary problem-solving.
 
-Previously,
-* Environmental Field Organizer (policy, advocacy) at Dakota Resource Council
-* Research Assistant & Field/Lab Technician at NDSU (Soil Science, Plant Science, & Natural Resources Management Deptartments)
-* Teaching Assistant at NDSU (Mathematics Department)
-* Naturalist & Environmental Educator at Lake Metigoshe State Park
+Previously, I've worked in environmental policy, organizing, education, research, communications, and field/lab work. 
 
-I graduated summa cum laude with a B.S. in Natural Resources Management with an emphasis in physical/earth resources science.
+I graduated *summa cum laude* with a B.S. in Natural Resources Management with an emphasis in physical/earth resources science.
 
 #### About Me
 I've always had a deep curiosity and appreciation for the natural world. Growing up in rural North Dakota, I spent a lot of time outdoors. Outside of my professional work, I love spending time with my three cats, a good cup of tea, creative writing, reading, hiking, meditation, and traveling.
+
+*“Instructions for living a life. Pay attention. Be astonished. Tell about it.” -Mary Oliver*
 
 #### Interest Areas
 #### What I'm excited to learn

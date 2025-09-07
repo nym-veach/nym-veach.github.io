@@ -1,6 +1,6 @@
 <img src="img/Profile-Picture-Nym1.jpg" alt="Profile Picture" width="200">
 
-### *Welcome to my portfolio! I'm Nym Veach.* 
+### **Welcome to my portfolio! I'm Nym Veach.**
 
 #### Contact Information
 **Email:** [nym.veach@gmail.com](mailto:nym.veach@gmail.com)  
@@ -12,7 +12,7 @@ I'm an Environmental Scientist at the ND Dept of Environmental Quality. I overse
 
 I'm an Earth Data Science Student at CU Boulder! I am excited to apply data analysis skills to solving complex real-world environmental challenges facing us today, using innovative and creative interdisciplinary problem-solving.
 
-Previous Experience, 
+Previously,
 * Environmental Field Organizer (policy, advocacy) at Dakota Resource Council
 * Research Assistant & Field/Lab Technician at NDSU (Soil Science, Plant Science, & Natural Resources Management Deptartments)
 * Teaching Assistant at NDSU (Mathematics Department)
@@ -21,7 +21,7 @@ Previous Experience,
 I graduated summa cum laude with a B.S. in Natural Resources Management with an emphasis in physical/earth resources science.
 
 #### About Me
-I've always had a deep curiosity and appreciation for the natural world. Growing up in rural North Dakota, I spent a lot of time outdoors. Outside of my professional work, I love spending time with my three cats, enjoying a good cup of tea, writing creatively, and traveling.
+I've always had a deep curiosity and appreciation for the natural world. Growing up in rural North Dakota, I spent a lot of time outdoors. Outside of my professional work, I love spending time with my three cats, a good cup of tea, creative writing, reading, hiking, meditation, and traveling.
 
 #### Interest Areas
 #### What I'm excited to learn

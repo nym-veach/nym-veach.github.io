@@ -1,6 +1,17 @@
-<img 
-  src="img/Profile-Picture-Nym1.jpg" 
-  alt="Profile Picture" width="200">
+<div style="display: flex;">
+  <img 
+    src="img/Profile-Picture-Nym1.jpg"
+    alt="Profile Picture" 
+    width="150">
+  <div>
+    <h2>Welcome to my portfolio! I'm Nym Veach.</h2>
+    <p>I'm an Environmental Scientist at the ND Dept of Environmental Quality. I oversee regulatory compliance data monitoring for safe drinking water in ND. I manage rules for disinfection byproducts, volatile organic compounds, pesticides, and inorganic chemicals. 
+
+I'm an Earth Data Science Student at CU Boulder! I am excited to apply data analysis skills to solving complex real-world environmental challenges facing us today, using innovative and creative interdisciplinary problem-solving.
+
+Previously, I've worked in environmental policy, organizing, education, research, communications, and field/lab work. I graduated *summa cum laude* with a B.S. in Natural Resources Management with an emphasis in physical/earth resources science.</p>
+  </div>
+</div>
 
 ### **Welcome to my portfolio! I'm Nym Veach.**
 

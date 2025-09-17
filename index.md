@@ -2,7 +2,7 @@
   <img 
     src="img/Profile-Picture-Nym1.jpg"
     alt="Profile Picture" 
-    width="150">
+    width="200">
   <div>
     <h2>Welcome to my portfolio! I'm Nym Veach.</h2>
     <p>I'm an Environmental Scientist at the ND Dept of Environmental Quality. I oversee regulatory compliance data monitoring for safe drinking water in ND. I manage rules for disinfection byproducts, volatile organic compounds, pesticides, and inorganic chemicals. 

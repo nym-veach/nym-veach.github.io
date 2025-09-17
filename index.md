@@ -1,32 +1,6 @@
 <img 
-    src="img/Profile-Picture-Nym1.jpg"
-    alt="Profile Picture" 
-    width="200">
-<table>
-<tr>
-<!-- Profile Picture -->
-    <td>
-      <img src="img/Profile-Picture-Nym1.jpg" 
-        width="200" 
-        alt="Profile Picture">
-    </td>
-<!-- Text next to picture -->
-    <td width="400">
-      <h2>Welcome to my portfolio! I'm Nym Veach.</h2>
-      <h3>Contact Information</h3>
-      <p>
-        <strong>Email:</strong> <a href="mailto:nym.veach@gmail.com">nym.veach@gmail.com</a><br>
-        <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/nym-veach" target="_blank">www.linkedin.com/in/nym-veach</a><br>
-        <strong>GitHub:</strong> <a href="https://github.com/nym-veach" target="_blank">github.com/nym-veach</a>
-      </p>
-<h3>Professional & Educational Background</h3>
-      <p>I'm an Environmental Scientist at the ND Dept of Environmental Quality. I oversee regulatory compliance data monitoring for safe drinking water in ND. I manage rules for disinfection byproducts, volatile organic compounds, pesticides, and inorganic chemicals.</p>
-<p>I'm an Earth Data Science Student at CU Boulder! I am excited to apply data analysis skills to solving complex real-world environmental challenges using innovative and creative interdisciplinary problem-solving.</p>
-<p>Previously, I've worked in environmental policy, organizing, education, research, communications, and field/lab work. I graduated <em>summa cum laude</em> with a B.S. in Natural Resources Management with an emphasis in physical/earth resources science.</p>
-    </td>
-  </tr>
-</table>
-
+  src="img/Profile-Picture-Nym1.jpg" 
+  alt="Profile Picture" width="200">
 
 ### **Welcome to my portfolio! I'm Nym Veach.**
 

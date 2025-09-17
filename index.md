@@ -11,7 +11,7 @@
         alt="Profile Picture">
     </td>
 <!-- Text next to picture -->
-    <td>
+    <td width="400">
       <h2>Welcome to my portfolio! I'm Nym Veach.</h2>
       <h3>Contact Information</h3>
       <p>

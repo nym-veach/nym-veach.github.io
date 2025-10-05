@@ -2,7 +2,7 @@
   src="img/Profile-Picture-Nym1.jpg" 
   alt="Profile Picture" width="200">
 
-### **Welcome to my portfolio! I'm Nym Veach.**
+## **Welcome to my portfolio! I'm Nym Veach.**
 
 #### Contact Information
 **Email:** [nym.veach@gmail.com](mailto:nym.veach@gmail.com)  
@@ -25,6 +25,8 @@ I've always had a deep curiosity and appreciation for the natural world. Growing
 #### What I'm excited to learn
 #### Questions I'm curious about...
 
+## <u> Projects </u>
+
 ### **Map of Lake Metigoshe created with Python**
 Lake Metigoshe is an transboundary waterway near where I grew up, on the international border between North Dakota and Canada. It is a glacial lake with unique hydrological properties in the Turtle Mountain region. It has sensitive water chemistry and has struggled with nutrient pollution, leading to harmful algal blooms in recent years. As a part of Lake Metigoshe State Park, the lake supports important wildlife habitat and recreation activities. I spent a lot of time here in my youth and a summer in 2017 serving as a naturalist and environmental educator, which deepened my personal connection and professional curiosity of the landscape.
 <embed 
@@ -32,3 +34,9 @@ Lake Metigoshe is an transboundary waterway near where I grew up, on the interna
   src="img/lakemetigoshe.html" 
   width="600" height="600">
 
+### Climate Change & Large Freshwater Lakes: Lake Superior’s Story Shows How Air Temperatures Alone Can Mislead
+Lake Superior is the largest lake by surface area in the world, holding approximately 10% of the planet’s fresh surface water, and is among the fastest warming large lakes globally. At first glance, one might think the Lake Superior region isn’t being impacted by climate change when near-shore air temperatures show a slight cooling trend (slope = –0.002 °C/year).
+
+This analysis highlights how air temperatures alone don’t tell the full story of climate change or explain complex air–land–water interactions. While local air temperatures appear stable or slightly cooling, broader regional and water temperature data reveal clear warming and climate change impacts such as increased precipitation, reduced ice cover, stronger storms, and changing habitats.
+
+Large lakes like Lake Superior can modulate local air temperatures, acting as a thermal buffer by aborbing/storing heat, which can mask the full effects of climate change when examining air data alone. [View the full analysis](https://nym-veach.github.io/portfolio_posts/01-lake-superior-shoreline-climate-change.html) for data cleaning, visualization, trend calculation, references, and further discussion.

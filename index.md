@@ -35,10 +35,12 @@ Lake Metigoshe is an transboundary waterway near where I grew up, on the interna
   width="600" height="600">
 
 ### Climate Change & Large Freshwater Lakes: Lake Superior’s Story Shows How Air Temperatures Alone Can Mislead
-<embed 
-  type="text/html" 
+<iframe 
   src="img/lake-superior-temp-interactive.html" 
-  width="600" height="600"> 
+  width="100%" 
+  height="600" 
+  style="border:none;">
+</iframe>
 
 Lake Superior is the largest lake by surface area in the world, holding approximately 10% of the planet’s fresh surface water, and is among the fastest warming large lakes globally. At first glance, one might think the Lake Superior region isn’t being impacted by climate change, since near-shore air temperatures show a slight cooling trend (slope = –0.002 °C/year, R² = 0.02). This R² indicates that most of the temperature variation is natural and that the trend line explains very little of it.
 

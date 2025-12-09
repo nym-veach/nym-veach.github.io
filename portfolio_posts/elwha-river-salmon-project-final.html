@@ -7616,9 +7616,9 @@ The USGS salmonid CSV file was downloaded and converted into a pandas dataframe.
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
-<div class="jp-RenderedJavaScript jp-OutputArea-output" data-mime-type="application/javascript" id="e1443804-e7c2-4986-821e-c08bee947713" tabindex="0">
+<div class="jp-RenderedJavaScript jp-OutputArea-output" data-mime-type="application/javascript" id="b9fd0172-99f5-4ac9-b9f9-5d9697645082" tabindex="0">
 <script type="text/javascript">
-var element = document.getElementById('e1443804-e7c2-4986-821e-c08bee947713');
+var element = document.getElementById('b9fd0172-99f5-4ac9-b9f9-5d9697645082');
 (function(root) {
   function now() {
     return new Date();
@@ -7870,9 +7870,9 @@ function(Bokeh) {} // ensure no trailing comma for IE
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
-<div class="jp-RenderedJavaScript jp-OutputArea-output" data-mime-type="application/javascript" id="bd829f97-2546-4d7e-8bcd-a4f137ceffb2" tabindex="0">
+<div class="jp-RenderedJavaScript jp-OutputArea-output" data-mime-type="application/javascript" id="b9107ae5-6b7c-4e98-b020-85bc663e6c78" tabindex="0">
 <script type="text/javascript">
-var element = document.getElementById('bd829f97-2546-4d7e-8bcd-a4f137ceffb2');
+var element = document.getElementById('b9107ae5-6b7c-4e98-b020-85bc663e6c78');
 
 if ((window.PyViz === undefined) || (window.PyViz instanceof HTMLElement)) {
   window.PyViz = {comms: {}, comm_status:{}, kernels:{}, receivers: {}, plot_index: []}
@@ -8829,10 +8829,10 @@ Name: name, dtype: object
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [12]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-ipython3"><pre><span></span><span class="c1"># Select columns for Coho salmon and count</span>
+<div class="highlight hl-ipython3"><pre><span></span><span class="c1"># Select columns for Chinook salmon and count</span>
 <span class="n">salmon_df</span> <span class="o">=</span> <span class="n">salmon_df</span><span class="p">[[</span><span class="s1">'Reach_ID'</span><span class="p">,</span> <span class="s1">'Reach_Name'</span><span class="p">,</span> <span class="s1">'Year'</span><span class="p">,</span> <span class="s1">'Count_Onts'</span><span class="p">,</span> <span class="s1">'Fish_km_Onts'</span><span class="p">]]</span>
 
 <span class="c1"># Rename columns</span>
@@ -8850,7 +8850,7 @@ Name: name, dtype: object
 </div>
 <div class="jp-OutputArea jp-Cell-outputArea">
 <div class="jp-OutputArea-child jp-OutputArea-executeResult">
-<div class="jp-OutputPrompt jp-OutputArea-prompt">Out[12]:</div>
+<div class="jp-OutputPrompt jp-OutputArea-prompt">Out[ ]:</div>
 <div class="jp-RenderedHTMLCommon jp-RenderedHTML jp-OutputArea-output jp-OutputArea-executeResult" data-mime-type="text/html" tabindex="0">
 <div>
 <style scoped="">
@@ -8979,10 +8979,10 @@ Name: name, dtype: object
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [13]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-ipython3"><pre><span></span><span class="c1"># Create dataframe with Year and Coho_count and Coho_per_km</span>
+<div class="highlight hl-ipython3"><pre><span></span><span class="c1"># Create dataframe with Year and Chinook_count and Chinook_per_km</span>
 <span class="n">chinook_year_df</span> <span class="o">=</span> <span class="n">salmon_df</span><span class="p">[[</span><span class="s1">'Year'</span><span class="p">,</span> <span class="s1">'Chinook_count'</span><span class="p">,</span> <span class="s1">'Chinook_per_km'</span><span class="p">]]</span>
 
 <span class="c1"># Look at dataframe</span>
@@ -8997,7 +8997,7 @@ Name: name, dtype: object
 </div>
 <div class="jp-OutputArea jp-Cell-outputArea">
 <div class="jp-OutputArea-child jp-OutputArea-executeResult">
-<div class="jp-OutputPrompt jp-OutputArea-prompt">Out[13]:</div>
+<div class="jp-OutputPrompt jp-OutputArea-prompt">Out[ ]:</div>
 <div class="jp-RenderedHTMLCommon jp-RenderedHTML jp-OutputArea-output jp-OutputArea-executeResult" data-mime-type="text/html" tabindex="0">
 <div>
 <style scoped="">
@@ -9483,7 +9483,7 @@ Name: name, dtype: object
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
-<p>Note: Due to the polygon being the exact same coordinates for each year, hvplot does not properly update when you hover the interactive numbers for each year. I was able to correct the issue but it must be view in a Jupyter Notebook and was not able to be exported to html.</p>
+<p>Note: Due to the polygon being the exact same coordinates for each year, hvplot does not properly update / has a minor bug when you hover the interactive numbers for each year. I was able to correct the issue but it must be viewed in a Jupyter Notebook and was not able to be exported to html.</p>
 </div>
 </div>
 </div>
@@ -9568,9 +9568,9 @@ Name: name, dtype: object
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
-<div class="jp-RenderedJavaScript jp-OutputArea-output" data-mime-type="application/javascript" id="0822bdf6-dbad-48b7-8735-902f583bdd5c" tabindex="0">
+<div class="jp-RenderedJavaScript jp-OutputArea-output" data-mime-type="application/javascript" id="caf86f1d-2ec1-4ed0-9789-472f8f514dbf" tabindex="0">
 <script type="text/javascript">
-var element = document.getElementById('0822bdf6-dbad-48b7-8735-902f583bdd5c');
+var element = document.getElementById('caf86f1d-2ec1-4ed0-9789-472f8f514dbf');
 (function(root) {
   function now() {
     return new Date();
@@ -9831,9 +9831,9 @@ function(Bokeh) {} // ensure no trailing comma for IE
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
-<div class="jp-RenderedJavaScript jp-OutputArea-output" data-mime-type="application/javascript" id="8256a243-f86e-41f9-b379-e8f795659bce" tabindex="0">
+<div class="jp-RenderedJavaScript jp-OutputArea-output" data-mime-type="application/javascript" id="6a104344-ebf4-4b47-8c81-7ea5942190e5" tabindex="0">
 <script type="text/javascript">
-var element = document.getElementById('8256a243-f86e-41f9-b379-e8f795659bce');
+var element = document.getElementById('6a104344-ebf4-4b47-8c81-7ea5942190e5');
 
 if ((window.PyViz === undefined) || (window.PyViz instanceof HTMLElement)) {
   window.PyViz = {comms: {}, comm_status:{}, kernels:{}, receivers: {}, plot_index: []}

@@ -18,8 +18,17 @@ I've always had a deep curiosity and appreciation for the natural world. Growing
 *“Instructions for living a life. Pay attention. Be astonished. Tell about it.” -Mary Oliver*
 
 #### Interest Areas
-#### What I'm excited to learn
-#### Questions I'm curious about...
+- Water Resources, Hydrology, & Hydrogeology
+- Water Quality Monitoring
+- Nonpoint Source Pollution
+- Environmental Planning
+- Geospatial Analysis (GIS)
+- Time-Series Analysis of Environmental Data
+- Applied Machine Learning for Environmental Data
+- Environmental Chemistry & Chemical Contaminants (Drinking Water)
+- Science-Based Policy
+- Flood Risk Management & Mitigation
+- Climate Change Impacts
 
 ## <u> Projects </u>
 

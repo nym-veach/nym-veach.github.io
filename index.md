@@ -1,7 +1,3 @@
-<img 
-  src="img/Profile-Picture-Nym1.jpg" 
-  alt="Profile Picture" width="200">
-
 ## **Welcome to my portfolio! I'm Nym Veach.**
 
 #### Contact Information

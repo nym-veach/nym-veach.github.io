@@ -32,7 +32,7 @@ Outside of work, I love writing, reading, hiking, meditation, travel, and spendi
 ## <u> Projects </u>
 #### **Elwha River Dam Removal - Chinook Salmon (Oncorhynchus tshawytscha) Recovery Analysis using Python**
 <img 
-    src="img/mean_chinook_density_static_plot.png" 
+    src="img/mean_chinook_density_static_plot_update.png" 
     alt="Mean Chinook Density Plot" 
     width="100%">
     
@@ -60,7 +60,7 @@ As more dams are being removed, it is important to look at changes in ecological
 
 Several factors likely explain the relatively small NDVI changes observed within the LEKT boundary. Vegetation recovery often occurs gradually over time, and the strongest responses are expected in areas that were previously submerged, eroded, or otherwise impacted by the dams. These locations may not be within the LEKT analyzed along the river mouth in this dataset. Additionally, natural variation, climate influences, and the substantial pre-existing vegetation cover in that area can mask short-term NDVI responses in remote sensing data.
 
-During this analysis and project, a key takeaway is that post-dam vegetation recovery is not spatially homogenous across the watershed and could use further study following dam removals (Shafroth, Rosi, & Pess, 2024). The Elwha River is one of the most well-studied dam removal projects in the world, yet there is still a lot to be understood. The largest increases are likely to occur in regions directly influenced by restored hydrology and sediment transport rather than uniformly across the watershed or at the mouth of the river on the tribal lands. This suggests that when evaluating ecological restoration such as vegetation health with remote sensing data, it is important to carefully select areas most likely to experience change, which can provide a more complete picture of recovery. Future analysis could use different polygon data to work with the larger watershed and see changes across the entire watershed.  [Check out the full data analysis](https://nym-veach.github.io/portfolio_posts/elhwa-river-ndvi.html), with maps, figures, and full raster geospatial processing.
+During this analysis and project, a key takeaway is that post-dam vegetation recovery is not spatially homogenous across the watershed and could use further study following dam removals (Shafroth, Rosi, & Pess, 2024). The Elwha River is one of the most well-studied dam removal projects in the world, yet there is still a lot to be understood. The largest increases are likely to occur in regions directly influenced by restored hydrology and sediment transport rather than uniformly across the watershed or at the mouth of the river on the tribal lands. This suggests that when evaluating ecological restoration such as vegetation health with remote sensing data, it is important to carefully select areas most likely to experience change, which can provide a more complete picture of recovery. Future analysis could use different polygon data to work with the larger watershed and see changes across the entire watershed.  [Check out the full data analysis](https://nym-veach.github.io/portfolio_posts/elhwa-river-ndvi.html), with maps, interactive figures, and full raster geospatial processing.
 
 <u>Data Citation:</u> 
 Lower Elwha Klallam Tribe. (n.d.). Home. Retrieved November 21, 2025, from https://www.elwha.org

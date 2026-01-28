@@ -6,11 +6,11 @@
 **GitHub:** [github.com/nym-veach](https://github.com/nym-veach)
 
 #### Professional & Educational Background
-I’m an earth data science student at CU Boulder in the Earth Data Analytics Graduate Certificate Program, developing skills in geospatial analysis, data analytics, and applying data-driven approaches to address the complex environmental challenges facing us today. My coursework involves processing and visualizing environmental data, using tools like Python, Jupyter Notebooks, and version control, and applying those technical skills to real-world projects. 
+I’m currently a student at CU Boulder in the Earth Data Analytics Graduate Certificate Program, developing skills in geospatial analysis, data analytics, and applying data-driven approaches to address the complex environmental challenges facing us today. My coursework involves processing and visualizing environmental data, using tools like Python, Jupyter Notebooks, and version control, and applying those technical skills to real-world projects. 
 
-Previously, I worked as an Environmental Scientist at the North Dakota Department of Environmental Quality, overseeing regulatory compliance and data monitoring for safe drinking water, including disinfection byproducts, volatile organic compounds, pesticides, and inorganic chemicals. Additionally, I worked with the Dakota Resource Council, a grassroots environmental nonprofit, supporting community engagement on sustainable natural resource and land-use issues. I have a deep passion for water resource issues, but I am curious about all sorts of environmental systems and impacts.
+Previously, I worked as an Environmental Scientist at the North Dakota Department of Environmental Quality, overseeing regulatory compliance and data monitoring for safe drinking water, including disinfection byproducts, volatile organic compounds, pesticides, and inorganic chemicals. Additionally, I worked with the Dakota Resource Council, a grassroots environmental nonprofit, supporting community engagement on sustainable natural resource and land-use issues. I have a deep passion for water resources, but am curious about all sorts of environmental systems.
 
-My background spans environmental compliance, stakeholder engagement, policy, research, education, communications, and field/lab work. I graduated summa cum laude with a B.S. in Natural Resources Management, with an emphasis in physical and earth resources science.
+My interdisciplinary background spans environmental compliance, stakeholder engagement, policy, education, communications, research, and field/lab work. I graduated summa cum laude with a B.S. in Natural Resources Management, with an emphasis in physical and earth resources science.
 
 #### About Me
 Outside of work, I love writing, reading, hiking, meditation, travel, and spending time with my three cats.

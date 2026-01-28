@@ -68,10 +68,10 @@ Lower Elwha Klallam Tribe. (n.d.). Home. Retrieved November 21, 2025, from https
 Didan, K. (2021). MODIS/Terra Vegetation Indices 16-Day L3 Global 250 m SIN Grid V061 [Dataset]. NASA Land Processes Distributed Active Archive Center. https://doi.org/10.5067/MODIS/MOD13Q1.061
 
 #### **Trumpeter Swan (Cygnus buccinator) Migration Analysis using Python**
-<a href="img/trumpeter_swan_migration_plot.html" target="_blank">
+<a href="https://nym-veach.github.io/portfolio_posts/trumpeter-swan-migration.html" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Trumpeter_Swan_%2830337786934%29.jpg" alt="Trumpeter Swan" width="100%">
 </a>
-<p>Click the swan to view the interactive migration map!</p>
+<p>Click the swan to explore the full analysis & interactive migration map!</p>
 <p style="font-size:small;">
   Photo: Andy Reago &amp; Chrissy McClarren / CC BY 2.0 via Wikimedia Commons
 </p>
@@ -86,7 +86,7 @@ Some of the populations that are visible in certain regions year-round are from 
 
 Recovering from near-extinction due to hunting, habitat loss, pollution, and human disturbance is not an easy feat. Trumpeter Swans have made a serious comeback, but the fight is far from over for birds that are impacted by humans and climate change. Trumpeter swans are an iconic and easily identifiable bird. They are an important indicator species for freshwater ecosystem health and water resources management more broadly. Using this species migration interactive map, you can follow them as they travel to find habitat with clean and calm waters.
 
-This data analysis used Python to work with occurrence data from GBIF, spatially joined to WWF ecoregion polygons, to create the species migration map. The normalized mean occurrence was used to reduce spatial and temporal sampling variability. While this data analysis did not yet include wetland characteristics, water quality, or hydrologic data, it could provide a valuable foundation and direction for future environmental data science studies. By combining Trumpeter Swan migration patterns with wetland, hydrologic, or even climate data, researchers could investigate associations between swan occurrences and freshwater ecosystem health, detect environmental changes over time, and inform water resources management for data-driven decisions. [Explore the full data analysis & references](https://nym-veach.github.io/portfolio_posts/trumpeter-swan-migration.html)
+This data analysis used Python to work with occurrence data from GBIF, spatially joined to WWF ecoregion polygons, to create the species migration map. The normalized mean occurrence was used to reduce spatial and temporal sampling variability. While this data analysis did not yet include wetland characteristics, water quality, or hydrologic data, it could provide a valuable foundation and direction for future environmental data science studies. By combining Trumpeter Swan migration patterns with wetland, hydrologic, or even climate data, researchers could investigate associations between swan occurrences and freshwater ecosystem health, detect environmental changes over time, and inform water resources management for data-driven decisions.
 
 <u>Data Citation:</u> 
 Species Occurence: GBIF.org (26 October 2025) GBIF Occurrence Download https://doi.org/10.15468/dl.6kxqja

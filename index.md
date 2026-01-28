@@ -1,4 +1,4 @@
-## **Welcome to my portfolio! I'm Nym Veach.**
+## **Welcome to my portfolio!**
 
 #### Contact Information
 **Email:** [nym.veach@gmail.com](mailto:nym.veach@gmail.com)  
@@ -6,7 +6,7 @@
 **GitHub:** [github.com/nym-veach](https://github.com/nym-veach)
 
 #### Professional & Educational Background
-I’m currently a student at CU Boulder in the Earth Data Analytics Graduate Certificate Program, developing skills in geospatial analysis, data analytics, and applying data-driven approaches to address the complex environmental challenges facing us today. My coursework involves processing and visualizing environmental data, using tools like Python, Jupyter Notebooks, and version control, and applying those technical skills to real-world projects. 
+I’m currently a student at CU Boulder in the Earth Data Analytics Graduate Certificate Program, developing skills in geospatial analysis, data analytics, and applying data-driven approaches to address complex environmental challenges facing. My coursework involves processing and visualizing environmental data, using tools like Python, Jupyter Notebooks, and version control, and applying those technical skills to real-world projects. 
 
 Previously, I worked as an Environmental Scientist at the North Dakota Department of Environmental Quality, overseeing regulatory compliance and data monitoring for safe drinking water, including disinfection byproducts, volatile organic compounds, pesticides, and inorganic chemicals. Additionally, I worked with the Dakota Resource Council, a grassroots environmental nonprofit, supporting community engagement on sustainable natural resource and land-use issues. I have a deep passion for water resources, but am curious about all sorts of environmental systems.
 
@@ -39,10 +39,12 @@ Outside of work, I love writing, reading, hiking, meditation, travel, and spendi
 #### **Trumptrer Swan Migration Map**
 
 #### **Climate Change & Large Freshwater Lakes: Lake Superior’s Story Shows How Air Temperatures Alone Can Mislead**
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+<div style="width: 100%; max-width: 100%; overflow-x: auto;">
   <iframe 
     src="img/lake-superior-temp-interactive.html" 
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;">
+    width="100%" 
+    height="600" 
+    style="border:none; min-width: 800px;">
   </iframe>
 </div>
 

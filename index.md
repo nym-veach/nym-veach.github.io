@@ -55,12 +55,7 @@ During this analysis and project, a key takeaway is that post-dam vegetation rec
 Data Citation:
 
 #### **Trumpeter Swan (Cygnus buccinator) Migration Analysis using Python**
-<iframe 
-    src="img/trumpeter_swan_migration_panel.html" 
-    width="100%" 
-    height="700" 
-    style="border:none;">
-</iframe>
+
 **Following the Flight: Where Can You Find the Trumpeter Swan (Cygnus buccinator) Throughout the Year?**
 
 Trumpeter Swans are a symbol of resilience, grace, and beauty. They also tell a story of successful conservation efforts to protect wetlands and threatened species. Following their migration on the map above, Trumpeter Swans spend the winter in inland areas such as the Midwest and along the U.S. coasts where waters remain ice-free. They then travel to remote regions such as Alaska, Canada, and the northwestern U.S. to breed in the spring and summer (Cornell Lab of Ornithology, n.d.).

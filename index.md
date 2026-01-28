@@ -56,6 +56,9 @@ During this analysis and project, a key takeaway is that post-dam vegetation rec
 
 
 <u>Data Citation:</u> 
+Lower Elwha Klallam Tribe. (n.d.). Home. Retrieved November 21, 2025, from https://www.elwha.org
+
+Didan, K. (2021). MODIS/Terra Vegetation Indices 16-Day L3 Global 250 m SIN Grid V061 [Dataset]. NASA Land Processes Distributed Active Archive Center. https://doi.org/10.5067/MODIS/MOD13Q1.061
 
 #### **Trumpeter Swan (Cygnus buccinator) Migration Analysis using Python**
 <a href="img/trumpeter_swan_migration_plot.html" target="_blank">

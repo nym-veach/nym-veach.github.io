@@ -7,7 +7,6 @@
 
 #### Professional & Educational Background
 
-img/elwha_chinook_recovery_map.html
 I’m currently a student in the Earth Data Analytics Graduate Certificate Program at CU Boulder, where I’m developing skills in geospatial analysis, data analytics, and utilizing data to address complex environmental challenges. My coursework focuses on processing and visualizing environmental data, using tools like Python and Jupyter Notebooks, and applying these skills to real-world projects. I use Python libraries such as pandas, geopandas, numpy, matplotlib, scikit-learn, xarray, rioxarray, and more to explore, analyze, and model environmental datasets.
 
 Previously, I worked as an Environmental Scientist at the North Dakota Department of Environmental Quality, overseeing regulatory compliance and data monitoring for safe drinking water, including disinfection byproducts, volatile organic compounds, pesticides, and inorganic chemicals. Additionally, I worked with the Dakota Resource Council, a grassroots environmental nonprofit, supporting community engagement on sustainable natural resource and land-use issues. I graduated summa cum laude with a B.S. in Natural Resources Management from North Dakota State University, with an emphasis in physical and earth resources science.
@@ -35,9 +34,8 @@ Outside of work, I love writing, reading, hiking, meditation, travel, and spendi
 <img 
     src="img/mean_chinook_density_static_plot.png" 
     alt="Mean Chinook Density Plot" 
-    width="700px"> <!-- or width="100%" for full width -->
-
-
+    width="100%">
+    
 **Return of the King: Chinook Salmon Recovery in the Elwha River Watershed (2012–2014)**
 
 Chinook salmon are back in the Elwha River following dam removals. Using Python, geospatial analysis, and USGS snorkeling survey data, I analyzed their return, observing increases in total counts and densities from pre- to post-dam removal surveys. Higher densities appeared even in previously inaccessible upstream areas, suggesting population-scale recovery.
@@ -52,7 +50,10 @@ USGS. (2021). Riverscape snorkeling surveys of salmonid distribution and abundan
 U.S. Geological Survey. Watershed Boundary Dataset (WBD), 8‑digit Hydrologic Unit Code 17110020 — Dungeness‑Elwha. National Geospatial Technical Operations Center, 2025.
 
 #### **Lower Elwha Klallum Tribe - Elwha River Dam Removal - Vegetation Changes NDVI Analysis using Python**
-
+<img 
+    src="img/mean_ndvi_difference_elwha_tribe.png" 
+    alt="Mean Chinook Density Plot" 
+    width="100%">
 **Tracking Vegetation Recovery to Elwha River Dam Removal: NDVI Changes Within and Outside the Lower Elwha Klallam Tribe Boundary (2008–2018)**
 
 As more dams are being removed, it is important to look at changes in ecological health over time to ensure restoration of the river’s health. This analysis of NDVI data within the Lower Elwha Klallam Tribe (LEKT) boundary revealed modest changes in vegetation over the 2008-2018 following the removal of the Elwha and Glines Canyon Dams. We do see a possible decrease in vegetation health outside the boundary which could be due to things like changes in sediment changes at the mouth of the river or urban development. While the dataset showed limited NDVI increases on tribal lands at the mouth of the river specifically, other studies and field observations indicate that vegetation recovery is occurring elsewhere in the larger watershed. This limited change near shore is consistent with other findings that saw relatively little vegetation change at the mouth of the river in the first 3 years following dam removal (Foley et al., 2017). We do see a possible increase in vegetation health towards the end of the timeframe explored, meaning that there could be more changes if looking further into the future.

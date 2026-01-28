@@ -6,11 +6,9 @@
 **GitHub:** [github.com/nym-veach](https://github.com/nym-veach)
 
 #### Professional & Educational Background
-I’m currently a student in the Earth Data Analytics Graduate Certificate Program at CU Boulder, where I’m developing skills in geospatial analysis, data analytics, and utilizing data to address complex environmental challenges. My coursework focuses on processing and visualizing environmental data, using tools like Python and Jupyter Notebooks, and applying these skills to real-world projects. I work with libraries such as pandas, geopandas, numpy, matplotlib, scikit-learn, xarray, rioxarray, and more to explore, analyze, and model environmental datasets.
+I’m currently a student in the Earth Data Analytics Graduate Certificate Program at CU Boulder, where I’m developing skills in geospatial analysis, data analytics, and utilizing data to address complex environmental challenges. My coursework focuses on processing and visualizing environmental data, using tools like Python and Jupyter Notebooks, and applying these skills to real-world projects. I use Python libraries such as pandas, geopandas, numpy, matplotlib, scikit-learn, xarray, rioxarray, and more to explore, analyze, and model environmental datasets.
 
-Previously, I worked as an Environmental Scientist at the North Dakota Department of Environmental Quality, overseeing regulatory compliance and data monitoring for safe drinking water, including disinfection byproducts, volatile organic compounds, pesticides, and inorganic chemicals. Additionally, I worked with the Dakota Resource Council, a grassroots environmental nonprofit, supporting community engagement on sustainable natural resource and land-use issues. I have a deep passion for water resources, but am curious about all sorts of environmental systems.
-
-I graduated summa cum laude with a B.S. in Natural Resources Management from North Dakota State University, with an emphasis in physical and earth resources science.
+Previously, I worked as an Environmental Scientist at the North Dakota Department of Environmental Quality, overseeing regulatory compliance and data monitoring for safe drinking water, including disinfection byproducts, volatile organic compounds, pesticides, and inorganic chemicals. Additionally, I worked with the Dakota Resource Council, a grassroots environmental nonprofit, supporting community engagement on sustainable natural resource and land-use issues. I graduated summa cum laude with a B.S. in Natural Resources Management from North Dakota State University, with an emphasis in physical and earth resources science.
 
 #### About Me
 Outside of work, I love writing, reading, hiking, meditation, travel, and spending time with my three cats. 
@@ -20,17 +18,17 @@ Outside of work, I love writing, reading, hiking, meditation, travel, and spendi
 - Water Resources, Hydrology, & Hydrogeology
 - Water Quality Monitoring
 - Nonpoint Source Pollution
-- Environmental Planning
 - Geospatial Analysis (GIS)
 - Time-Series Analysis of Environmental Data
 - Applied Machine Learning for Environmental Data
 - Environmental Chemistry & Chemical Contaminants (Drinking Water)
-- Science-Based Policy
-- Flood Risk Management & Mitigation
+- Flood Risk Mitigation
+- Stormwater Managemant
 - Climate Change Impacts
+- Environmental Planning
+- Science-Based Policy
 
 ## <u> Projects </u>
-
 
 #### **Elwha Dam Removal**
 
@@ -74,10 +72,10 @@ Large lakes like Lake Superior can modulate local air temperatures, acting as a 
 Data Citation: Menne, M. J., Durre, I., Korzeniewski, B., McNeill, S., Thomas, K., Yin, X., Anthony, S., Ray, R., Vose, R. S., Gleason, B. E., & Houston, T. G. (2012). Global Historical Climatology Network – Daily (GHCN-Daily), Version 3: Grand Marais, MN (USC00213282), 1920–2020. NOAA National Centers for Environmental Information. https://doi.org/10.7289/V5D21VHZ [Accessed October 4, 2025]
 
 #### **Map of Lake Metigoshe created with Python**
-Lake Metigoshe is an transboundary waterway near where I grew up, on the international border between North Dakota and Canada. It is a glacial lake with unique hydrological properties in the Turtle Mountain region. It has sensitive water chemistry and has struggled with nutrient pollution, leading to harmful algal blooms in recent years. As a part of Lake Metigoshe State Park, the lake supports important wildlife habitat and recreation activities. I spent a lot of time here in my youth and a summer in 2017 serving as a naturalist and environmental educator, which deepened my personal connection and professional curiosity of the landscape.
 <iframe 
   src="img/lakemetigoshe.html" 
   width="600" 
   height="600" 
   style="border:none;">
 </iframe>
+Lake Metigoshe is an transboundary waterway near where I grew up, on the international border between North Dakota and Canada. It is a glacial lake with unique hydrological properties in the Turtle Mountain region. It has sensitive water chemistry and has struggled with nutrient pollution, leading to harmful algal blooms in recent years. As a part of Lake Metigoshe State Park, the lake supports important wildlife habitat and recreation activities. I spent a lot of time here in my youth and a summer in 2017 serving as a naturalist and environmental educator, which deepened my personal connection and professional curiosity of the landscape.

@@ -32,7 +32,14 @@ Outside of work, I love writing, reading, hiking, meditation, travel, and spendi
 
 #### **Elwha Dam Removal**
 
-#### **Elwha River Dam Removal: NDVI**
+#### **Lower Elwha Klallum Tribe - Elwha River Dam Removal - Vegetation Changes NDVI Analysis using Python**
+
+**Tracking Vegetation Recovery to Elwha River Dam Removal: NDVI Changes Within and Outside the Lower Elwha Klallam Tribe Boundary (2008–2018)**
+As more dams are being removed, it is important to look at changes in ecological health over time to ensure restoration of the river’s health. This analysis of NDVI data within the Lower Elwha Klallam Tribe (LEKT) boundary revealed modest changes in vegetation over the 2008-2018 following the removal of the Elwha and Glines Canyon Dams. We do see a possible decrease in vegetation health outside the boundary which could be due to things like changes in sediment changes at the mouth of the river or urban development. While the dataset showed limited NDVI increases on tribal lands at the mouth of the river specifically, other studies and field observations indicate that vegetation recovery is occurring elsewhere in the larger watershed. This limited change near shore is consistent with other findings that saw relatively little vegetation change at the mouth of the river in the first 3 years following dam removal (Foley et al., 2017). We do see a possible increase in vegetation health towards the end of the timeframe explored, meaning that there could be more changes if looking further into the future.
+
+Several factors likely explain the relatively small NDVI changes observed within the LEKT boundary. Vegetation recovery often occurs gradually over time, and the strongest responses are expected in areas that were previously submerged, eroded, or otherwise impacted by the dams. These locations may not be within the LEKT analyzed along the river mouth in this dataset. Additionally, natural variation, climate influences, and the substantial pre-existing vegetation cover in that area can mask short-term NDVI responses in remote sensing data.
+
+During this analysis and project, a key takeaway is that post-dam vegetation recovery is not spatially homogenous across the watershed and could use further study following dam removals (Shafroth, Rosi, & Pess, 2024). The Elwha River is one of the most well-studied dam removal projects in the world, yet there is still a lot to be understood. The largest increases are likely to occur in regions directly influenced by restored hydrology and sediment transport rather than uniformly across the watershed or at the mouth of the river on the tribal lands. This suggests that when evaluating ecological restoration such as vegetation health with remote sensing data, it is important to carefully select areas most likely to experience change, which can provide a more complete picture of recovery. Future analysis could use different polygon data to work with the larger watershed and see changes across the entire watershed.
 
 #### **Trumpeter Swan (Cygnus buccinator) Migration Analysis using Python**
 <iframe 

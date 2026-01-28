@@ -32,6 +32,13 @@ Outside of work, I love writing, reading, hiking, meditation, travel, and spendi
 
 ## <u> Projects </u>
 #### **Elwha River Dam Removal - Chinook Salmon (Oncorhynchus tshawytscha) Recovery Analysis using Python**
+<iframe 
+    src="img/mean_chinook_density_static_plot.png" 
+    width="100%" 
+    height="600" 
+    style="border:none; min-width: 800px;">
+  </iframe>
+
 <div style="width: 100%; max-width: 100%; overflow-x: auto;">
   <iframe 
     src="img/elwha_chinook_recovery_map.html" 

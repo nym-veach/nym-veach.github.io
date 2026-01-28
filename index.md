@@ -57,6 +57,13 @@ During this analysis and project, a key takeaway is that post-dam vegetation rec
 <u>Data Citation:</u> 
 
 #### **Trumpeter Swan (Cygnus buccinator) Migration Analysis using Python**
+<a href="img/trumpeter_swan_migration_panel.html" target="_blank">
+  <img 
+    src="https://live.staticflickr.com/5482/30337786934_8fa7f5a737_o.jpg" 
+    alt="Trumpeter Swan" 
+    width="100%">
+</a>
+<p>Click the swan to view the interactive migration map!</p>
 
 **Following the Flight: Where Can You Find the Trumpeter Swan (Cygnus buccinator) Throughout the Year?**
 
@@ -69,6 +76,9 @@ Some of the populations that are visible in certain regions year-round are from 
 Recovering from near-extinction due to hunting, habitat loss, pollution, and human disturbance is not an easy feat. Trumpeter Swans have made a serious comeback, but the fight is far from over for birds that are impacted by humans and climate change. Trumpeter swans are an iconic and easily identifiable bird. They are an important indicator species for freshwater ecosystem health and water resources management more broadly. Using this species migration interactive map, you can follow them as they travel to find habitat with clean and calm waters.
 
 This data analysis used Python to work with occurrence data from GBIF, spatially joined to WWF ecoregion polygons, to create the species migration map. The normalized mean occurrence was used to reduce spatial and temporal sampling variability. While this data analysis did not yet include wetland characteristics, water quality, or hydrologic data, it could provide a valuable foundation and direction for future environmental data science studies. By combining Trumpeter Swan migration patterns with wetland, hydrologic, or even climate data, researchers could investigate associations between swan occurrences and freshwater ecosystem health, detect environmental changes over time, and inform water resources management for data-driven decisions. [Explore the full data analysis](https://nym-veach.github.io/portfolio_posts/trumpeter-swan-migration.html)
+<p style="font-size:small;">
+  Photo: Andy Reago &amp; Chrissy McClarren / CC BY 2.0 via Wikimedia Commons
+</p>
 
 <u>Data Citation:</u> 
 Species Occurence: GBIF.org (26 October 2025) GBIF Occurrence Download https://doi.org/10.15468/dl.6kxqja

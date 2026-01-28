@@ -57,7 +57,7 @@ During this analysis and project, a key takeaway is that post-dam vegetation rec
 <u>Data Citation:</u> 
 
 #### **Trumpeter Swan (Cygnus buccinator) Migration Analysis using Python**
-<a href="img/trumpeter_swan_migration_panel.html" target="_blank">
+<a href="img/trumpeter_swan_migration_plot.html" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Trumpeter_Swan_%2830337786934%29.jpg" alt="Trumpeter Swan" width="100%">
 </a>
 <p>Click the swan to view the interactive migration map!</p>

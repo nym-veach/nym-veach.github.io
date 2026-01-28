@@ -6,15 +6,14 @@
 **GitHub:** [github.com/nym-veach](https://github.com/nym-veach)
 
 #### Professional & Educational Background
-I'm an Environmental Scientist at the ND Dept of Environmental Quality. I oversee regulatory compliance data monitoring for safe drinking water in ND. I manage rules for disinfection byproducts, volatile organic compounds, pesticides, and inorganic chemicals. 
+I’m an earth data science student at CU Boulder in the Earth Data Analytics Graduate Certificate Program, developing skills in geospatial analysis, data analytics, and applying data-driven approaches to address the complex environmental challenges facing us today. My coursework involves processing and visualizing environmental data, using tools like Python, Jupyter Notebooks, and version control, and applying those technical skills to real-world projects. 
 
-I'm an Earth Data Science Student at CU Boulder! I am excited to apply data analysis skills to solving complex real-world environmental challenges facing us today, using innovative and creative interdisciplinary problem-solving.
+Previously, I worked as an Environmental Scientist at the North Dakota Department of Environmental Quality, overseeing regulatory compliance and data monitoring for safe drinking water, including disinfection byproducts, volatile organic compounds, pesticides, and inorganic chemicals. Additionally, I worked with the Dakota Resource Council, a grassroots environmental nonprofit, supporting community engagement on sustainable natural resource and land-use issues. I have a deep passion for water resource issues, but I am curious about all sorts of environmental systems and impacts.
 
-Previously, I've worked in environmental policy, organizing, education, research, communications, and field/lab work. I graduated *summa cum laude* with a B.S. in Natural Resources Management with an emphasis in physical/earth resources science.
+My background spans environmental compliance, stakeholder engagement, policy, research, education, communications, and field/lab work. I graduated summa cum laude with a B.S. in Natural Resources Management, with an emphasis in physical and earth resources science.
 
 #### About Me
-I've always had a deep curiosity and appreciation for the natural world. Growing up in rural North Dakota, I spent a lot of time outdoors. Outside of my professional work, I love spending time with my three cats, a good cup of tea, creative writing, reading, hiking, meditation, and traveling.
-
+Outside of work, I love writing, reading, hiking, meditation, travel, and spending time with my three cats.
 *“Instructions for living a life. Pay attention. Be astonished. Tell about it.” -Mary Oliver*
 
 #### Interest Areas
@@ -32,14 +31,12 @@ I've always had a deep curiosity and appreciation for the natural world. Growing
 
 ## <u> Projects </u>
 
-#### **Map of Lake Metigoshe created with Python**
-Lake Metigoshe is an transboundary waterway near where I grew up, on the international border between North Dakota and Canada. It is a glacial lake with unique hydrological properties in the Turtle Mountain region. It has sensitive water chemistry and has struggled with nutrient pollution, leading to harmful algal blooms in recent years. As a part of Lake Metigoshe State Park, the lake supports important wildlife habitat and recreation activities. I spent a lot of time here in my youth and a summer in 2017 serving as a naturalist and environmental educator, which deepened my personal connection and professional curiosity of the landscape.
-<iframe 
-  src="img/lakemetigoshe.html" 
-  width="600" 
-  height="600" 
-  style="border:none;">
-</iframe>
+
+#### **Elwha Dam Removal**
+
+#### **Elwha River Dam Removal: NDVI**
+
+#### **Trumptrer Swan Migration Map**
 
 #### **Climate Change & Large Freshwater Lakes: Lake Superior’s Story Shows How Air Temperatures Alone Can Mislead**
 <iframe 
@@ -56,3 +53,12 @@ Grand Marais, MN station along the shoreline was used as a land-based proxy to g
 Large lakes like Lake Superior can modulate local air temperatures, acting as a thermal buffer by absorbing/storing heat, which can mask the full effects of climate change when examining air data alone. [View the full analysis](https://nym-veach.github.io/portfolio_posts/01-lake-superior-shoreline-climate-change.html) for data cleaning, visualization, trend calculation, references, and further discussion.
 
 Data Citation: Menne, M. J., Durre, I., Korzeniewski, B., McNeill, S., Thomas, K., Yin, X., Anthony, S., Ray, R., Vose, R. S., Gleason, B. E., & Houston, T. G. (2012). Global Historical Climatology Network – Daily (GHCN-Daily), Version 3: Grand Marais, MN (USC00213282), 1920–2020. NOAA National Centers for Environmental Information. https://doi.org/10.7289/V5D21VHZ [Accessed October 4, 2025]
+
+#### **Map of Lake Metigoshe created with Python**
+Lake Metigoshe is an transboundary waterway near where I grew up, on the international border between North Dakota and Canada. It is a glacial lake with unique hydrological properties in the Turtle Mountain region. It has sensitive water chemistry and has struggled with nutrient pollution, leading to harmful algal blooms in recent years. As a part of Lake Metigoshe State Park, the lake supports important wildlife habitat and recreation activities. I spent a lot of time here in my youth and a summer in 2017 serving as a naturalist and environmental educator, which deepened my personal connection and professional curiosity of the landscape.
+<iframe 
+  src="img/lakemetigoshe.html" 
+  width="600" 
+  height="600" 
+  style="border:none;">
+</iframe>

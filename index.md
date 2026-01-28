@@ -29,8 +29,19 @@ Outside of work, I love writing, reading, hiking, meditation, travel, and spendi
 - Science-Based Policy
 
 ## <u> Projects </u>
+#### **Elwha River Dam Removal - Chinook Salmon (Oncorhynchus tshawytscha) Recovery Analysis using Python**
 
-#### **Elwha Dam Removal**
+**Return of the King: Chinook Salmon Recovery in the Elwha River Watershed (2012–2014)**
+Chinook salmon are back in the Elwha River following dam removals. Using Python, geospatial analysis, and USGS snorkeling survey data, I analyzed their return, observing increases in total counts and densities from pre- to post-dam removal surveys. Higher densities appeared even in previously inaccessible upstream areas, suggesting population-scale recovery.
+
+Chinook are a keystone species important for nutrient cycling and as a food source for predators. Dam removal released trapped wood and sediment, reshaping the riverbed and creating new habitat, while quickly rebounding downstream populations. This recovery also has cultural and social significance for the Lower Elwha Klallam Tribe, supporting food security and tribal sovereignty.
+
+Limitations included coarse survey frequency and missing reach-level coordinates, with future analysis possible for spatial patterns, other salmon species, and correlations with hydrologic or water quality data. Overall, this work highlights habitat restoration, environmental justice, and the importance of rewilding rivers through dam removal.
+
+Data Citation: 
+USGS. (2021). Riverscape snorkeling surveys of salmonid distribution and abundance before (2007, 2008) and after (2018, 2019) dam removal on the Elwha River, Washington [Dataset]. USGS Science Data Catalog
+
+U.S. Geological Survey. Watershed Boundary Dataset (WBD), 8‑digit Hydrologic Unit Code 17110020 — Dungeness‑Elwha. National Geospatial Technical Operations Center, 2025.
 
 #### **Lower Elwha Klallum Tribe - Elwha River Dam Removal - Vegetation Changes NDVI Analysis using Python**
 

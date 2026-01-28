@@ -6,14 +6,14 @@
 **GitHub:** [github.com/nym-veach](https://github.com/nym-veach)
 
 #### Professional & Educational Background
-I’m currently a student in the Earth Data Analytics Graduate Certificate Program at CU Boulder, developing skills in geospatial analysis, data analytics, and data-driven approaches to address complex environmental challenges. My coursework involves processing and visualizing environmental data, using tools like Python and Jupyter Notebooks, and applying those technical skills to real-world projects. 
+I’m currently a student in the Earth Data Analytics Graduate Certificate Program at CU Boulder, where I’m developing skills in geospatial analysis, data analytics, and utilizing data to address complex environmental challenges. My coursework focuses on processing and visualizing environmental data, using tools like Python and Jupyter Notebooks, and applying these skills to real-world projects. I work with libraries such as pandas, geopandas, numpy, matplotlib, scikit-learn, xarray, rioxarray, and more to explore, analyze, and model environmental datasets.
 
 Previously, I worked as an Environmental Scientist at the North Dakota Department of Environmental Quality, overseeing regulatory compliance and data monitoring for safe drinking water, including disinfection byproducts, volatile organic compounds, pesticides, and inorganic chemicals. Additionally, I worked with the Dakota Resource Council, a grassroots environmental nonprofit, supporting community engagement on sustainable natural resource and land-use issues. I have a deep passion for water resources, but am curious about all sorts of environmental systems.
 
-My interdisciplinary background spans environmental compliance, stakeholder engagement, policy, education, communications, research, and field/lab work. I graduated summa cum laude with a B.S. in Natural Resources Management, with an emphasis in physical and earth resources science.
+I graduated summa cum laude with a B.S. in Natural Resources Management from North Dakota State University, with an emphasis in physical and earth resources science.
 
 #### About Me
-Outside of work, I love writing, reading, hiking, meditation, travel, and spending time with my three cats.
+Outside of work, I love writing, reading, hiking, meditation, travel, and spending time with my three cats. 
 *“Instructions for living a life. Pay attention. Be astonished. Tell about it.” -Mary Oliver*
 
 #### Interest Areas
@@ -37,7 +37,12 @@ Outside of work, I love writing, reading, hiking, meditation, travel, and spendi
 #### **Elwha River Dam Removal: NDVI**
 
 #### **Trumpeter Swan (Cygnus buccinator) Migration Analysis using Python**
-
+<iframe 
+  src="img/trumpeter_swan_migration_plot.html" 
+  width="600" 
+  height="600" 
+  style="border:none;">
+</iframe>
 **Following the Flight: Where Can You Find the Trumpeter Swan (Cygnus buccinator) Throughout the Year?**
 
 Trumpeter Swans are a symbol of resilience, grace, and beauty. They also tell a story of successful conservation efforts to protect wetlands and threatened species. Following their migration on the map above, Trumpeter Swans spend the winter in inland areas such as the Midwest and along the U.S. coasts where waters remain ice-free. They then travel to remote regions such as Alaska, Canada, and the northwestern U.S. to breed in the spring and summer (Cornell Lab of Ornithology, n.d.).
@@ -48,7 +53,7 @@ Some of the populations that are visible in certain regions year-round are from 
 
 Recovering from near-extinction due to hunting, habitat loss, pollution, and human disturbance is not an easy feat. Trumpeter Swans have made a serious comeback, but the fight is far from over for birds that are impacted by humans and climate change. Trumpeter swans are an iconic and easily identifiable bird. They are an important indicator species for freshwater ecosystem health and water resources management more broadly. Using this species migration interactive map, you can follow them as they travel to find habitat with clean and calm waters.
 
-This data analysis used Python to work with occurrence data from GBIF, spatially joined to WWF ecoregion polygons, to create the species migration map. The normalized mean occurrence was used to reduce spatial and temporal sampling variability. While this data analysis did not yet include wetland characteristics, water quality, or hydrologic data, it could provide a valuable foundation and direction for future environmental data science studies. By combining Trumpeter Swan migration patterns with wetland, hydrologic, or even climate data, researchers could investigate associations between swan occurrences and freshwater ecosystem health, detect environmental changes over time, and inform water resources management for data-driven decisions. [View the full data analysis]()
+This data analysis used Python to work with occurrence data from GBIF, spatially joined to WWF ecoregion polygons, to create the species migration map. The normalized mean occurrence was used to reduce spatial and temporal sampling variability. While this data analysis did not yet include wetland characteristics, water quality, or hydrologic data, it could provide a valuable foundation and direction for future environmental data science studies. By combining Trumpeter Swan migration patterns with wetland, hydrologic, or even climate data, researchers could investigate associations between swan occurrences and freshwater ecosystem health, detect environmental changes over time, and inform water resources management for data-driven decisions. [Explore the full data analysis](https://nym-veach.github.io/portfolio_posts/trumpeter-swan-migration.html)
 
 #### **Climate Change & Large Freshwater Lakes: Lake Superior’s Story Shows How Air Temperatures Alone Can Mislead**
 <div style="width: 100%; max-width: 100%; overflow-x: auto;">

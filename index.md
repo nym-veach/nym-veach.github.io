@@ -90,15 +90,11 @@ Species Occurence: GBIF.org (26 October 2025) GBIF Occurrence Download https://d
 Ecoregion boundaries: Dinerstein, E., Olson, D. M., Joshi, A., Vynne, C., Burgess, N. D., & Wikramanayake, E. D. (2017). RESOLVE Ecoregions 2017. RESOLVE. Dataset accessed on October 11, 2025. https://www.resolve.ngo/projects/ecoregions-world
 
 #### **Climate Change & Large Freshwater Lakes: Lake Superior’s Story Shows How Air Temperatures Alone Can Mislead**
-<div style="width: 100%; max-width: 100%; overflow-x: auto;">
-  <iframe 
-    src="img/lake-superior-temp-interactive.html" 
-    width="100%" 
-    height="600" 
-    style="border:none; min-width: 800px;">
-  </iframe>
-</div>
-
+<img 
+    src="img/lake_superior_static_plot.png" 
+    alt="Mean Chinook Density Plot" 
+    width="100%">
+    
 Lake Superior is the largest lake by surface area in the world, holding approximately 10% of the planet’s fresh surface water, and is among the fastest warming large lakes globally. At first glance, one might think the Lake Superior region isn’t being impacted by climate change, since near-shore air temperatures show a slight cooling trend (slope = –0.002 °C/year, R² = 0.02). This R² indicates that most of the temperature variation is natural and that the trend line explains very little of it.
 
 Grand Marais, MN station along the shoreline was used as a land-based proxy to get near-shore lake air temperatures. This analysis highlights how air temperatures alone don’t tell the full story of climate change or explain complex air–land–water interactions. While local air temperatures appear stable or slightly cooling, broader regional and water temperature data reveal clear warming and climate change impacts such as increased precipitation, reduced ice cover, stronger storms, and changing habitats.

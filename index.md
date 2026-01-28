@@ -17,11 +17,11 @@ Outside of work, I love writing, reading, hiking, meditation, travel, and spendi
 #### Interest Areas
 - Water Resources, Hydrology, & Hydrogeology
 - Water Quality Monitoring
-- Nonpoint Source Pollution
 - Geospatial Analysis (GIS)
 - Time-Series Analysis of Environmental Data
 - Applied Machine Learning for Environmental Data
 - Environmental Chemistry & Chemical Contaminants (Drinking Water)
+- Nonpoint Source Pollution
 - Flood Risk Mitigation
 - Stormwater Managemant
 - Climate Change Impacts
@@ -41,12 +41,14 @@ Several factors likely explain the relatively small NDVI changes observed within
 
 During this analysis and project, a key takeaway is that post-dam vegetation recovery is not spatially homogenous across the watershed and could use further study following dam removals (Shafroth, Rosi, & Pess, 2024). The Elwha River is one of the most well-studied dam removal projects in the world, yet there is still a lot to be understood. The largest increases are likely to occur in regions directly influenced by restored hydrology and sediment transport rather than uniformly across the watershed or at the mouth of the river on the tribal lands. This suggests that when evaluating ecological restoration such as vegetation health with remote sensing data, it is important to carefully select areas most likely to experience change, which can provide a more complete picture of recovery. Future analysis could use different polygon data to work with the larger watershed and see changes across the entire watershed.
 
+Data Citation:
+
 #### **Trumpeter Swan (Cygnus buccinator) Migration Analysis using Python**
 <iframe 
-  src="img/trumpeter_swan_migration_plot.html" 
-  width="600" 
-  height="600" 
-  style="border:none;">
+    src="img/trumpeter_swan_migration_panel.html" 
+    width="100%" 
+    height="700" 
+    style="border:none;">
 </iframe>
 **Following the Flight: Where Can You Find the Trumpeter Swan (Cygnus buccinator) Throughout the Year?**
 
@@ -60,6 +62,7 @@ Recovering from near-extinction due to hunting, habitat loss, pollution, and hum
 
 This data analysis used Python to work with occurrence data from GBIF, spatially joined to WWF ecoregion polygons, to create the species migration map. The normalized mean occurrence was used to reduce spatial and temporal sampling variability. While this data analysis did not yet include wetland characteristics, water quality, or hydrologic data, it could provide a valuable foundation and direction for future environmental data science studies. By combining Trumpeter Swan migration patterns with wetland, hydrologic, or even climate data, researchers could investigate associations between swan occurrences and freshwater ecosystem health, detect environmental changes over time, and inform water resources management for data-driven decisions. [Explore the full data analysis](https://nym-veach.github.io/portfolio_posts/trumpeter-swan-migration.html)
 
+Data Citation
 #### **Climate Change & Large Freshwater Lakes: Lake Superior’s Story Shows How Air Temperatures Alone Can Mislead**
 <div style="width: 100%; max-width: 100%; overflow-x: auto;">
   <iframe 
@@ -79,10 +82,11 @@ Large lakes like Lake Superior can modulate local air temperatures, acting as a 
 Data Citation: Menne, M. J., Durre, I., Korzeniewski, B., McNeill, S., Thomas, K., Yin, X., Anthony, S., Ray, R., Vose, R. S., Gleason, B. E., & Houston, T. G. (2012). Global Historical Climatology Network – Daily (GHCN-Daily), Version 3: Grand Marais, MN (USC00213282), 1920–2020. NOAA National Centers for Environmental Information. https://doi.org/10.7289/V5D21VHZ [Accessed October 4, 2025]
 
 #### **Map of Lake Metigoshe created with Python**
+Lake Metigoshe is an transboundary waterway near where I grew up, on the international border between North Dakota and Canada. It is a glacial lake with unique hydrological properties in the Turtle Mountain region. It has sensitive water chemistry and has struggled with nutrient pollution, leading to harmful algal blooms in recent years. As a part of Lake Metigoshe State Park, the lake supports important wildlife habitat and recreation activities. I spent a lot of time here in my youth and a summer in 2017 serving as a naturalist and environmental educator, which deepened my personal connection and professional curiosity of the landscape.
 <iframe 
   src="img/lakemetigoshe.html" 
   width="600" 
   height="600" 
   style="border:none;">
 </iframe>
-Lake Metigoshe is an transboundary waterway near where I grew up, on the international border between North Dakota and Canada. It is a glacial lake with unique hydrological properties in the Turtle Mountain region. It has sensitive water chemistry and has struggled with nutrient pollution, leading to harmful algal blooms in recent years. As a part of Lake Metigoshe State Park, the lake supports important wildlife habitat and recreation activities. I spent a lot of time here in my youth and a summer in 2017 serving as a naturalist and environmental educator, which deepened my personal connection and professional curiosity of the landscape.
+

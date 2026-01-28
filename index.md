@@ -68,7 +68,11 @@ Recovering from near-extinction due to hunting, habitat loss, pollution, and hum
 
 This data analysis used Python to work with occurrence data from GBIF, spatially joined to WWF ecoregion polygons, to create the species migration map. The normalized mean occurrence was used to reduce spatial and temporal sampling variability. While this data analysis did not yet include wetland characteristics, water quality, or hydrologic data, it could provide a valuable foundation and direction for future environmental data science studies. By combining Trumpeter Swan migration patterns with wetland, hydrologic, or even climate data, researchers could investigate associations between swan occurrences and freshwater ecosystem health, detect environmental changes over time, and inform water resources management for data-driven decisions. [Explore the full data analysis](https://nym-veach.github.io/portfolio_posts/trumpeter-swan-migration.html)
 
-Data Citation
+Data Citation: 
+Species Occurence: GBIF.org (26 October 2025) GBIF Occurrence Download https://doi.org/10.15468/dl.6kxqja
+
+Ecoregion boundaries: Dinerstein, E., Olson, D. M., Joshi, A., Vynne, C., Burgess, N. D., & Wikramanayake, E. D. (2017). RESOLVE Ecoregions 2017. RESOLVE. Dataset accessed on October 11, 2025. https://www.resolve.ngo/projects/ecoregions-world
+
 #### **Climate Change & Large Freshwater Lakes: Lake Superior’s Story Shows How Air Temperatures Alone Can Mislead**
 <div style="width: 100%; max-width: 100%; overflow-x: auto;">
   <iframe 

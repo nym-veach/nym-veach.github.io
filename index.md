@@ -78,7 +78,7 @@ Didan, K. (2021). MODIS/Terra Vegetation Indices 16-Day L3 Global 250 m SIN 
 
 **Following the Flight: Where Can You Find the Trumpeter Swan (Cygnus buccinator) Throughout the Year?**
 
-Trumpeter Swans are a native North American swan and a symbol of resilience, grace, and beauty. They also tell a story of successful conservation efforts to protect wetlands and threatened species. Exploring their migration, Trumpeter Swans spend the winter in inland areas such as the Midwest and along the U.S. coasts where waters remain ice-free, then travel to Alaska, Canada, and the northwestern U.S. to breed in spring and summer (Cornell Lab of Ornithology, n.d.).
+Trumpeter Swans are a swan native to North America and a symbol of resilience, grace, and beauty. They also tell a story of successful conservation efforts to protect wetlands and threatened species. Exploring their migration, Trumpeter Swans spend the winter in inland areas such as the Midwest and along the U.S. coasts where waters remain ice-free, then travel to Alaska, Canada, and the northwestern U.S. to breed in spring and summer (Cornell Lab of Ornithology, n.d.).
 
 Recovering from near-extinction due to hunting, habitat loss, pollution, and human disturbance is not easy. Trumpeter Swans have made a serious comeback, but the fight is far from over. They are iconic, easily identifiable, and an important indicator species for freshwater ecosystem health and water resources management.
 

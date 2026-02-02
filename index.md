@@ -60,7 +60,7 @@ As more dams are being removed, it is important to look at changes in ecological
 
 Several factors likely explain the relatively small NDVI changes observed within the LEKT boundary. Vegetation recovery often occurs gradually over time, and the strongest responses are expected in areas that were previously submerged, eroded, or otherwise impacted by the dams. These locations may not be within the LEKT analyzed along the river mouth in this dataset. Additionally, natural variation, climate influences, and the substantial pre-existing vegetation cover in that area can mask short-term NDVI responses in remote sensing data.
 
-During this analysis and project, a key takeaway is that post-dam vegetation recovery is not spatially homogenous across the watershed and could use further study following dam removals (Shafroth, Rosi, & Pess, 2024). The Elwha River is one of the most well-studied dam removal projects in the world, yet there is still a lot to be understood. The largest increases are likely to occur in regions directly influenced by restored hydrology and sediment transport rather than uniformly across the watershed or at the mouth of the river on the tribal lands. This suggests that when evaluating ecological restoration such as vegetation health with remote sensing data, it is important to carefully select areas most likely to experience change, which can provide a more complete picture of recovery. Future analysis could use different polygon data to work with the larger watershed and see changes across the entire watershed.  [Check out the full data analysis](https://nym-veach.github.io/portfolio_posts/elhwa-river-ndvi.html), with maps, interactive figures, and full raster geospatial processing.
+During this analysis and project, a key takeaway is that post-dam vegetation recovery is not spatially homogenous across the watershed and could use further study following dam removals (Shafroth, Rosi, & Pess, 2024). The Elwha River is one of the most well-studied dam removal projects in the world, yet there is still a lot to be understood. The largest increases are likely to occur in regions directly influenced by restored hydrology and sediment transport rather than uniformly across the watershed or at the mouth of the river on the tribal lands. This suggests that when evaluating ecological restoration such as vegetation health with remote sensing data, it is important to carefully select areas most likely to experience change, which can provide a more complete picture of recovery. Future analysis could use different polygon data to work with the larger watershed and see changes across the entire watershed. [Check out the full data analysis](https://nym-veach.github.io/portfolio_posts/elhwa-river-ndvi.html), with maps, interactive figures, and full raster geospatial processing.
 
 <u>Data Citation:</u> 
 Lower Elwha Klallam Tribe. (n.d.). Home. Retrieved November 21, 2025, from https://www.elwha.org
@@ -68,10 +68,10 @@ Lower Elwha Klallam Tribe. (n.d.). Home. Retrieved November 21, 2025, from https
 Didan, K. (2021). MODIS/Terra Vegetation Indices 16-Day L3 Global 250 m SIN Grid V061 [Dataset]. NASA Land Processes Distributed Active Archive Center. https://doi.org/10.5067/MODIS/MOD13Q1.061
 
 #### **Trumpeter Swan (Cygnus buccinator) Migration Analysis using Python**
-<a href="https://nym-veach.github.io/portfolio_posts/trumpeter-swan-migration.html" target="_blank">
+<a href="https://nym-veach.github.io/portfolio_posts/trumpeter_swan_migration_plot.html" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Trumpeter_Swan_%2830337786934%29.jpg" alt="Trumpeter Swan" width="100%">
 </a>
-<p>Click the swan to explore the full analysis & interactive migration map!</p>
+<p>Click the swan to check out the interactive migration map!</p>
 <p style="font-size:small;">
   Photo: Andy Reago &amp; Chrissy McClarren / CC BY 2.0 via Wikimedia Commons
 </p>
@@ -82,7 +82,7 @@ Trumpeter Swans are a swan native to North America and a symbol of resilience, g
 
 Recovering from near-extinction due to hunting, habitat loss, pollution, and human disturbance is not easy. Trumpeter Swans have made a serious comeback, but the fight is far from over. They are iconic, easily identifiable, and an important indicator species for freshwater ecosystem health and water resources management.
 
-This analysis used Python with GBIF occurrence data spatially joined to WWF ecoregion polygons to create the species migration map. Normalized mean occurrence reduced spatial and temporal sampling variability. While wetland, water quality, or hydrologic data were not included, this analysis provides a foundation for future studies linking swan migration to freshwater ecosystem health and informing data-driven water management.
+This analysis used Python with GBIF occurrence data spatially joined to WWF ecoregion polygons to create the species migration map. Normalized mean occurrence reduced spatial and temporal sampling variability. While wetland, water quality, or hydrologic data were not included, this analysis provides a foundation for future studies linking swan migration to freshwater ecosystem health and informing data-driven water management. [Explore the full data analysis](https://nym-veach.github.io/portfolio_posts/trumpeter-swan-migration.html)
 
 <u>Data Citation:</u> 
 Species Occurence: GBIF.org (26 October 2025) GBIF Occurrence Download https://doi.org/10.15468/dl.6kxqja

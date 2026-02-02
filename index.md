@@ -26,7 +26,7 @@ Outside of work, I love writing, reading, hiking, meditation, travel, and spendi
 - Flood Risk Mitigation
 - Stormwater Managemant
 - Climate Change Impacts
-- Environmental Planning
+- Environmental Health
 - Science-Based Policy
 
 ## <u> Projects </u>

@@ -30,12 +30,13 @@ Outside of work, I love writing, reading, hiking, meditation, travel, and spendi
 - Science-Based Policy
 
 ## <u> Projects </u>
+
 #### **Elwha River Dam Removal - Chinook Salmon (Oncorhynchus tshawytscha) Recovery Analysis using Python**
 <img 
     src="img/mean_chinook_density_static_plot_update.png" 
     alt="Mean Chinook Density Plot" 
     width="100%">
-    
+#### Date: December, 2025
 **Return of the King: Chinook Salmon Recovery in the Elwha River Watershed (2012–2014)**
 
 Chinook salmon are back in the Elwha River following dam removals. Using Python, geospatial analysis, and USGS snorkeling survey data, I analyzed their return, observing increases in total counts and densities from pre- to post-dam removal surveys. Higher densities appeared even in previously inaccessible upstream areas, suggesting population-scale recovery.
@@ -54,7 +55,9 @@ U.S. Geological Survey. Watershed Boundary Dataset (WBD), 8‑digit Hydrologic
     src="img/mean_ndvi_difference_elwha_tribe.png" 
     alt="Mean Chinook Density Plot" 
     width="100%">
+#### Date: November, 2025
 **Tracking Vegetation Recovery to Elwha River Dam Removal: NDVI Changes Within and Outside the Lower Elwha Klallam Tribe Boundary (2008–2018)**
+
 
 As more dams are being removed, it is important to look at changes in ecological health over time to ensure restoration of the river’s health. This analysis of NDVI data within the Lower Elwha Klallam Tribe (LEKT) boundary revealed modest changes in vegetation over the 2008-2018 following the removal of the Elwha and Glines Canyon Dams. We do see a possible decrease in vegetation health outside the boundary which could be due to things like changes in sediment changes at the mouth of the river or urban development. While the dataset showed limited NDVI increases on tribal lands at the mouth of the river specifically, other studies and field observations indicate that vegetation recovery is occurring elsewhere in the larger watershed. This limited change near shore is consistent with other findings that saw relatively little vegetation change at the mouth of the river in the first 3 years following dam removal (Foley et al., 2017). We do see a possible increase in vegetation health towards the end of the timeframe explored, meaning that there could be more changes if looking further into the future.
 
@@ -75,7 +78,7 @@ Didan, K. (2021). MODIS/Terra Vegetation Indices 16-Day L3 Global 250 m SIN 
 <p style="font-size:small;">
   Photo: Andy Reago &amp; Chrissy McClarren / CC BY 2.0 via Wikimedia Commons
 </p>
-
+#### Date: October, 2025
 **Following the Flight: Where Can You Find the Trumpeter Swan (Cygnus buccinator) Throughout the Year?**
 
 Trumpeter Swans are a swan native to North America and a symbol of resilience, grace, and beauty. They also tell a story of successful conservation efforts to protect wetlands and threatened species. Exploring their migration, Trumpeter Swans spend the winter in inland areas such as the Midwest and along the U.S. coasts where waters remain ice-free, then travel to Alaska, Canada, and the northwestern U.S. to breed in spring and summer (Cornell Lab of Ornithology, n.d.).
@@ -94,7 +97,7 @@ Ecoregion boundaries: Dinerstein, E., Olson, D. M., Joshi, A., Vynne, C., Burges
     src="img/lake_superior_static_plot.png" 
     alt="Mean Chinook Density Plot" 
     width="100%">
-    
+#### Date: September, 2025
 Lake Superior is the largest lake by surface area in the world, holding approximately 10% of the planet’s fresh surface water, and is among the fastest warming large lakes globally. At first glance, one might think the Lake Superior region isn’t being impacted by climate change, since near-shore air temperatures show a slight cooling trend (slope = –0.002 °C/year, R² = 0.02). This R² indicates that most of the temperature variation is natural and that the trend line explains very little of it.
 
 Grand Marais, MN station along the shoreline was used as a land-based proxy to get near-shore lake air temperatures. This analysis highlights how air temperatures alone don’t tell the full story of climate change or explain complex air–land–water interactions. While local air temperatures appear stable or slightly cooling, broader regional and water temperature data reveal clear warming and climate change impacts such as increased precipitation, reduced ice cover, stronger storms, and changing habitats.
@@ -105,6 +108,7 @@ Large lakes like Lake Superior can modulate local air temperatures, acting as a 
 Menne, M. J., Durre, I., Korzeniewski, B., McNeill, S., Thomas, K., Yin, X., Anthony, S., Ray, R., Vose, R. S., Gleason, B. E., & Houston, T. G. (2012). Global Historical Climatology Network – Daily (GHCN-Daily), Version 3: Grand Marais, MN (USC00213282), 1920–2020. NOAA National Centers for Environmental Information. https://doi.org/10.7289/V5D21VHZ [Accessed October 4, 2025]
 
 #### **Map of Lake Metigoshe created with Python**
+#### Date: August, 2025
 Lake Metigoshe is an transboundary waterway near where I grew up, on the international border between North Dakota and Canada. It is a glacial lake with unique hydrological properties in the Turtle Mountain region. It has sensitive water chemistry and has struggled with nutrient pollution, leading to harmful algal blooms in recent years. As a part of Lake Metigoshe State Park, the lake supports important wildlife habitat and recreation activities. I spent a lot of time here in my youth and a summer in 2017 serving as a naturalist and environmental educator, which deepened my personal connection and professional curiosity of the landscape.
 
 <iframe 
